@@ -1,0 +1,35 @@
+/* Brand icon */
+.brand li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 20px;
+    opacity: 1;
+}
+
+.brand li:first-child {
+    padding-left: 0px;
+}
+
+.brand-header {
+    margin-bottom: 30px;
+}
+
+.icon {
+    width: 70%;
+}
+
+.icon-fidme {
+    width: 10%;
+}
+
+.text-prize p{
+	margin-bottom: 0px;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 20px;
+	text-align: left;
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 280px;
+}
